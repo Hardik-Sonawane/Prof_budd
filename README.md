@@ -60,9 +60,9 @@
 
 
 
-<h3 align="center">📊 GitHub Status</h3>
+<h3 align="left">📊 GitHub Status</h3>
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hardik-sonawane&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </div>
 
