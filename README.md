@@ -81,7 +81,7 @@
 <h3 align="left">📈 LeetCode Activity</h3>
 
 <div align="left">
-  <img src="https://leetcard.jacoblin.cool/hardik-07?ext=contest&theme=dark&border=0&animation=true" alt="LeetCode Stats" width="400" />
+  <img src="https://leetcard.jacoblin.cool/Hardik-07?ext=contest&theme=dark&border=0&animation=true" alt="LeetCode Stats" width="400" />
 </div>
 
 <br/>
