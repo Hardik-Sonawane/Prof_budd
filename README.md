@@ -96,9 +96,3 @@
 
 
 
-
-## 🧠 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Hardik-07?ext=contest&theme=dark" alt="LeetCode Stats" />
-</p>
