@@ -87,6 +87,6 @@
   
   <img align="left" src="https://leetcard.jacoblin.cool/hardik-07?ext=contest&theme=dark" width="300" alt="LeetCode Stats" />
 
-  <img height="200" src="https://i.imgflip.com/65efzo.gif" alt="fun gif" />
+  <img height="200" src="[https://i.imgflip.com/65efzo.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWd2ejJncHc5ZHd1ZTRrMmw1cndubXgza3B1ZnRta3dmeXJxaHFiNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llxMRJAsSjXsJ5ktIv/giphy.gif)" alt="fun gif" />
 
 </div>
