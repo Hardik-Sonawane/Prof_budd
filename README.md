@@ -83,18 +83,16 @@
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
   
-  <img align="left" src="https://leetcard.jacoblin.cool/hardik-07?ext=contest&theme=dark" width="300" alt="LeetCode Stats" />
+  <img align="left" src="https://leetcard.jacoblin.cool/hardik-07?ext=contest&theme=dark" width="500" alt="LeetCode Stats" />
 
   <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWd2ejJncHc5ZHd1ZTRrMmw1cndubXgza3B1ZnRta3dmeXJxaHFiNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llxMRJAsSjXsJ5ktIv/giphy.gif" alt="fun gif" />
 
 </div>
-<h2 align="center">🔥 Code in Motion: Contributions Unleashed 🔥</h2>
+<h2 align="center">🔥 Snake Animation contribution  🔥</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Hardik-Sonawane/Prof_budd/output/snake.svg" alt="Snake animation showing contribution graph" />
 </p>
 
-
-![GitHub Snake](https://raw.githubusercontent.com/Hardik-Sonawane/Prof_budd/output/snake.svg)
 
 
