@@ -77,10 +77,15 @@
 <div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hardik-sonawane&" alt="GitHub Streak Stats" />
 </div>
+
+
+
 <h3 align="center">📈 LeetCode Activity</h3>
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <img align="left" src="https://leetcard.jacoblin.cool/hardik-07?ext=contest&theme=dark" width="400" alt="LeetCode Stats" />
+
+  
+  <img align="left" src="https://leetcard.jacoblin.cool/hardik-07?ext=contest&theme=dark" width="300" alt="LeetCode Stats" />
 
   <img height="200" src="https://i.imgflip.com/65efzo.gif" alt="fun gif" />
 
