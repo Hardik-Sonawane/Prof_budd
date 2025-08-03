@@ -44,14 +44,22 @@
 
 
 <h3 align="center">📊 GitHub Status</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hardik-sonawane&show_icons=true&locale=en&layout=compact" alt="hardik-sonawane" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hardik-sonawane&show_icons=true&locale=en" alt="hardik-sonawane" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hardik-sonawane&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</div>
 
+<br/>
 
-<p align="center">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hardik-sonawane&show_icons=true&locale=en" alt="GitHub Stats" />
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hardik-sonawane&" alt="GitHub Streak Stats" />
-</p>
+</div>
 
 
 <h3 align="center">📈 LeetCode Activity</h3>
