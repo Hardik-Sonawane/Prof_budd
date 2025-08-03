@@ -36,24 +36,30 @@
 <a href="https://www.leetcode.com/hardik-07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hardik-07" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sonawanehcrdk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sonawanehcrdk" height="30" width="40" /></a>
 </p>
-<h3 align="center">🛠️ Languages and Tools</h3>
+<h3 align="left">🛠️ Languages and Tools</h3>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" title="Angular" alt="Angular" width="60" height="60" style="margin: 10px;" />
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" title="Arduino" alt="Arduino" width="60" height="60" style="margin: 10px;" />
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" title="Bash" alt="Bash" width="60" height="60" style="margin: 10px;" />
-  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" title="Blender" alt="Blender" width="60" height="60" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="60" height="60" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" alt="C" width="60" height="60" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="60" height="60" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="60" height="60" style="margin: 10px;" />
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" title="Django" alt="Django" width="60" height="60" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="60" height="60" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="60" height="60" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="60" height="60" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" title="Angular" alt="Angular" width="60" height="60" style="margin: 20px;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" title="Arduino" alt="Arduino" width="60" height="60" style="margin: 20px;" />
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" title="Bash" alt="Bash" width="60" height="60" style="margin: 20px;" />
+  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" title="Blender" alt="Blender" width="60" height="60" style="margin: 20px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="60" height="60" style="margin: 20px;" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" alt="C" width="60" height="60" style="margin: 20px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="60" height="60" style="margin: 20px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="60" height="60" style="margin: 20px;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" title="Django" alt="Django" width="60" height="60" style="margin: 20px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="60" height="60" style="margin: 20px;" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="60" height="60" style="margin: 20px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="60" height="60" style="margin: 20px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60" style="margin: 20px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60" style="margin: 20px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60" style="margin: 20px;" />
 </div>
 
 
