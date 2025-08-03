@@ -44,7 +44,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hardik-sonawane&show_icons=true&locale=en" alt="hardik-sonawane" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hardik-sonawane&" alt="hardik-sonawane" /></p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hardik-sonawane&" alt="GitHub Streak Stats" />
