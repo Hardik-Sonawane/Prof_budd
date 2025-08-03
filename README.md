@@ -46,7 +46,7 @@
 
 
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hardik-sonawane&" alt="GitHub Streak Stats" />
 </p>
 
