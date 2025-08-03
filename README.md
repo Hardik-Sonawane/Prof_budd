@@ -8,7 +8,7 @@
 <!-- ONLY Commit, Repositories, Experience trophies -->
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hardik-sonawane&theme=onestar&title=Commit,Repositories,Experience" alt="hardik-sonawane" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hardik-sonawane&theme=tokyonight&title=Commit,Repositories,Experience&no-frame=true&column=3" />
   </a>
 </p>
 
