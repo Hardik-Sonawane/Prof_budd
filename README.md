@@ -88,7 +88,12 @@
   <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWd2ejJncHc5ZHd1ZTRrMmw1cndubXgza3B1ZnRta3dmeXJxaHFiNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llxMRJAsSjXsJ5ktIv/giphy.gif" alt="fun gif" />
 
 </div>
-## 🐍 Snake Contribution Graph
+<h2 align="center">🔥 Code in Motion: Contributions Unleashed 🔥</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hardik-Sonawane/Prof_budd/output/snake.svg" alt="Snake animation showing contribution graph" />
+</p>
+
 
 ![GitHub Snake](https://raw.githubusercontent.com/Hardik-Sonawane/Prof_budd/output/snake.svg)
 
