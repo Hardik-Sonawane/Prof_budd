@@ -78,6 +78,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hardik-sonawane&" alt="GitHub Streak Stats" />
 </div>
 
+</div>
+<h2 align="center">🔥 Github Snake Animation contribution  🔥</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hardik-Sonawane/Prof_budd/output/snake.svg" alt="Snake animation showing contribution graph" />
+</p>
+
 
 <h3 align="center">📈 LeetCode Activity</h3>
 
@@ -87,12 +94,6 @@
 
   <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWd2ejJncHc5ZHd1ZTRrMmw1cndubXgza3B1ZnRta3dmeXJxaHFiNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llxMRJAsSjXsJ5ktIv/giphy.gif" alt="fun gif" />
 
-</div>
-<h2 align="center">🔥 Github Snake Animation contribution  🔥</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Hardik-Sonawane/Prof_budd/output/snake.svg" alt="Snake animation showing contribution graph" />
-</p>
 
 
 
