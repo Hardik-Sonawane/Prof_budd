@@ -46,19 +46,17 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hardik-sonawane&" alt="hardik-sonawane" /></p>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hardik-sonawane&" alt="hardik-sonawane" /></p>
-
-<h3 align="center">📈 LeetCode Stats</h3>
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/hardik-07?theme=unicorn&font=Baloo+Bhai&ext=contest" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hardik-sonawane&" alt="GitHub Streak Stats" />
 </p>
 
-<h3 align="center">🐍 Watch my contribution graph get eaten by a snake!</h3>
-<p align="center">
-  <img src="https://github.com/hardik-sonawane/hardik-sonawane/raw/output/github-contribution-grid-snake.svg" />
-</p>
+<h3 align="center">📈 LeetCode Activity</h3>
 
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif" />
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  
+  <img src="https://leetcard.jacoblin.cool/hardik-07?theme=unicorn&font=Baloo+Bhai&ext=contest" alt="LeetCode Stats" />
+
+  <img height="200" src="https://i.imgflip.com/65efzo.gif" alt="fun gif" />
+
 </div>
+
