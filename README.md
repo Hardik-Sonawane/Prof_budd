@@ -90,5 +90,6 @@
 </div>
 ## 🐍 Snake Contribution Graph
 
-![snake gif](https://github.com/Hardik-Sonawane/Hardik-Sonawane/blob/output/snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/Hardik-Sonawane/Prof_budd/output/snake.svg)
+
 
