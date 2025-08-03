@@ -1,11 +1,21 @@
 <h1 align="center">Hi 👋, I'm Hardik</h1>
 <h3 align="center">A passionate Data Scientist Student and Full stack Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hardik-sonawane&label=Profile%20views&color=0e75b6&style=flat" alt="hardik-sonawane" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=hardik-sonawane&label=Profile%20views&color=0e75b6&style=flat" alt="hardik-sonawane" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hardik-sonawane" alt="hardik-sonawane" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=hardik-sonawane&exclude=Stars,Followers,Issues,PullRequest,Reviews&theme=onestar" alt="hardik-sonawane" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://twitter.com/hardik_son58587" target="blank"><img src="https://img.shields.io/twitter/follow/hardik_son58587?logo=twitter&style=for-the-badge" alt="hardik_son58587" /></a> </p>
+<p align="left">
+  <a href="https://twitter.com/hardik_son58587" target="blank">
+    <img src="https://img.shields.io/twitter/follow/hardik_son58587?logo=twitter&style=for-the-badge" alt="hardik_son58587" />
+  </a>
+</p>
 
 - 🔭 I’m currently working on **Project Gesture**
 
