@@ -5,10 +5,10 @@
   <img src="https://komarev.com/ghpvc/?username=hardik-sonawane&label=Profile%20views&color=0e75b6&style=flat" alt="hardik-sonawane" />
 </p>
 
-<!-- ONLY show Commit trophy -->
+<!-- ONLY Commit, Repositories, Experience trophies -->
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hardik-sonawane&theme=onestar&title=Commit" alt="hardik-sonawane" />
+    <img src="https://github-profile-trophy.vercel.app/?username=hardik-sonawane&theme=onestar&title=Commit,Repositories,Experience" alt="hardik-sonawane" />
   </a>
 </p>
 
