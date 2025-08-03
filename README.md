@@ -45,10 +45,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hardik-sonawane&show_icons=true&locale=en" alt="hardik-sonawane" /></p>
 
 
+<h3 align="center">📊 GitHub Status</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hardik-sonawane&" alt="GitHub Streak Stats" />
 </p>
+
 
 <h3 align="center">📈 LeetCode Activity</h3>
 
